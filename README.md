@@ -54,11 +54,11 @@ him/her
 
 10. open any browser and type http://localhost/login.php
 
-11. first login as
+11. Now login as:
 
-12. admin login details  User id=admin1 and Password=123
+12. **Admin login details:**  User id=admin1 and Password=123
 
-13. auditor login details User id=c11aud2 and Password=123
+13. **auditor login details:** User id=c11aud2 and Password=123
 
 ## Screenshots
 
