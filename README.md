@@ -46,7 +46,7 @@ him/her
 
 6. click on new at side navbar.
 
-7. give a database name as (nic1) hit on create button.
+7. give a database name as (nic) hit on create button.
 
 8. after creating database name click on import.
 
@@ -54,8 +54,8 @@ him/her
 
 10. open any browser and type http://localhost/login.php
 
-11. first register and then login
+11. first login as
 
 12. admin login details  User id=admin1 and Password=123
 
-13. auditor login details User id=AmazonBeenish and Password=123
+13. auditor login details User id=c11aud2 and Password=123
