@@ -59,3 +59,17 @@ him/her
 12. admin login details  User id=admin1 and Password=123
 
 13. auditor login details User id=c11aud2 and Password=123
+
+## Screenshots
+
+### Admin Login
+
+![](screenshot/admin_login.PNG)
+
+### Admin Panel
+
+![](screenshot/admin_panel.PNG)
+
+### Auditor Panel
+
+![](screenshot/aud_panel.PNG)
