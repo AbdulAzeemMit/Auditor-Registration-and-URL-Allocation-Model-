@@ -50,7 +50,7 @@ him/her
 
 8. after creating database name click on import.
 
-9. browse the file in directory [nic1/database/nic.sql].
+9. browse the file in directory [database/nic.sql].
 
 10. open any browser and type http://localhost/login.php
 
