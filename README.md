@@ -73,3 +73,8 @@ him/her
 ### Auditor Panel
 
 ![](screenshot/aud_panel.PNG)
+
+## NOTE :
+
+This model is develop by me (Abdul Azeem) at NIC(HQ), New Delhi during my internship program 2019. This project has many dependencies, that can only be fulfilled by NIC and it is serving at NIC. So I have shared a small part of this project. 
+![](screenshot/20190812_233541_15_01-1.jpg)
